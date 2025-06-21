@@ -1,0 +1,22 @@
+🌟 Ứng dụng Smart Learning SmL - Học Tập Đa NGÔN NGỮ🌟
+
+🎯 Chức năng chính:
+- Hẹn giờ tự động thông minh file nghe, bài đọc cho từng học viên các khung giờ khác nhau, có chuông thông báo và gọi đúng tên học viên
+- Tạo đề thông minh luyện tập: Toán, Ngoại ngữ, Tự luận, Trắc nghiệm... Đa ngôn ngữ các trình độ, phạm vi tuỳ chọn
+- Tích hợp AI GPT & Gemini Tương tác thông minh với học viên, có thể in ra trực tiếp 1 click
+- Hẹn giờ phát nhạc - kết hợp camera gửi ảnh
+- Điều khiển thiết bị Broadlink, nhà thông minh, học lệnh điều khiển với 1 nút nhấn
+- Gửi ảnh ở bàn học 3 phút/lần (hoặc tuỳ chọn với 3 camera) qua Telegram, Discord cho giáo viên, phụ huynh học viên hoặc chính học viên thông minh
+- Giám sát chặt chẽ quá trình học hoặc làm bài thi
+- Đọc bất kỳ nội dung gì trong khung hiển thị đề kể cả tài liệu đa ngôn ngữ, như Anh, Trung, Nhật, Việt... thông minh tự động hoặc thủ công chọn dòng
+- Xuất nội dung ra MP3 bằng đa ngôn ngữ, như Anh, Trung, Nhật, Việt...
+- Kết nối trực tiếp máy in và lưu lịch sử in, thư mục chứ ảnh người in và tài liệu PDF tương ứng, gửi 1 bản tới nhiều email tuỳ chọn
+- Hỗ trợ bàn phím mini, giao diện fullscreen thân thiện dễ dùng
+- Tích hợp máy tính mini ngay trên giao diện
+- Trình chiếu ảnh hoặc file ảnh học thuật tự động
+- Tích hợp trình phát nhạc mini để luyện nghe
+- Bảng thông tin thời tiết địa phương
+- Tích hợp 4 camera rtps/onvif xem trực tiếp trên App
+- Tự động tải cài đặt update khi có bản mới, có thể call sdt để lấy link khi bị lỗi update nhé!
+💡 Phát triển bởi: Linh Dương - Cty TNHH DU LỊCH VÀ THƯƠNG MẠI QUỐC TẾ VIỆT TRUNG NHẬT
+📧 Liên hệ: halamchuc@gmail.com 0986183806
