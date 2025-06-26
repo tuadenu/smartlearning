@@ -1,0 +1,13 @@
+{
+  "GPT_API_KEY": "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",
+  "GEMINI_API_KEY": "AIzaSyDyNdZ-IqR4WYhJgL4uSBKwqlpWybQwQnI",
+  "DISCORD_WEBHOOK_URL": "https://discord.com/api/webhooks/1376452694277095505/Hme0nee6o22XreCXGeBAXYGw2NCgsFaZRy-VQp6tL-fofIUphLo2SftEo-XRuyjdGbI4",
+  "TELEGRAM_TOKEN": "7623166904:AAHu5lYIBAK7Uq1P0QC0_3TqG8_q73iCvbw",
+  "TELEGRAM_CHAT_ID": "-4830101833",
+  "WEATHER_API_KEY": "aa67aff1bdc89698311d2943873f8847",
+  "RECIPIENT_EMAILS": [
+    "viettrungnhattraveltradeco.ltd@gmail.com",
+    "tuadenu@gmail.com",
+    "qctanngoclinh@gmail.com"
+  ]
+}
