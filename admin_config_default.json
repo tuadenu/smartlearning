@@ -1,0 +1,12 @@
+{
+  "admin_password": "admin123",
+  "sender_email": "halamchuc@gmail.com",
+  "sender_name": "TRUNG T\u00c2M \u0110\u00c0O T\u1ea0O NGO\u1ea0I NG\u1eee Vi\u1ec7t Trung Nh\u1eadt Anh...c\u00f4ng ngh\u1ec7 cao",
+  "app_password": "joopmkgyvkftyuun",
+  "link_update_exe_primary": "https://www.dropbox.com/scl/fi/uttcsm67pi5ue76oivz5w/SmartLearning_Installer.exe?rlkey=aqrv57mdvtxn2s44e3lrwlefi&dl=1",
+  "link_update_exe_backup": "https://tuadenu.github.io/smartlearning/latest.html",
+  "link_update_version_primary": "https://www.dropbox.com/scl/fi/rvgyyuyjoaukjy2lgunmq/version.txt?rlkey=gkf46jai6wlwg13mlm9ed3o15&dl=1",
+  "link_update_version_backup": "https://tuadenu.github.io/smartlearning/Versiontxt.html",
+  "link_update_data_primary": "https://www.dropbox.com/scl/fi/szdrmv3nhglwufx2ys10p/DulieuUpdate.zip?rlkey=v6c2zz3y77p94ydei2fucod87&dl=1",
+  "link_update_data_backup": "https://tuadenu.github.io/smartlearning/DulieuUpdate.html"
+}
